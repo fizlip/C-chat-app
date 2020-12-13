@@ -11,7 +11,6 @@ int main(){
 
   int fd, newsockfd, n;
   char buffer[256];
-  char testOut[256];
   int clilen;
   struct sockaddr_in serv_addr, cli_addr;
   
