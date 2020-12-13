@@ -10,7 +10,6 @@ explore the software-architecure needed to create a stable scalable chat
 application.
 
 ## Build status
-[GitHub Pages](https://pages.github.com/).
 
 ## Code style
 
