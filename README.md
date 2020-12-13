@@ -2,37 +2,37 @@
 
 A Chat application using TCP communication with a client and a server
 
-# Motivation
+## Motivation
 
 The motivation for creating this project is to explore the problems and 
-solutions in the architecture of a realtime 'twitch'-like chat. I want to 
+solutions in the architecture of a realtime twitch/discord-like chat. I want to 
 explore the software-architecure needed to create a stable scalable chat
 application.
 
-# Build status
+## Build status
 
-# Code style
+## Code style
 
-# Screenshots
+## Screenshots
 
-# Tech/framework used
+## Tech/framework used
 
-## Features
+### Features
 
-# Code examples
+## Code examples
 
-## Installation
+### Installation
 
-## API reference
+### API reference
 
-## Tests
+### Tests
 
-## How to use
+### How to use
 
-# Contribute
+## Contribute
 
-# Credits
+## Credits
 
-# License
+## License
 
 MIT License
